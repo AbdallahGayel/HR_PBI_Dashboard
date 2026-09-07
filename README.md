@@ -2,6 +2,8 @@
 
 A comprehensive Business Intelligence solution designed to track, analyze, and visualize workforce metrics and payroll expenditures.
 
+![Dashboard Overview](Overview%20dashboard.png)
+
 ## Core Objectives
 * Deliver transparent visibility into payroll growth and operational cost discrepancies.
 * Track real-time employee attendance and performance metrics.
